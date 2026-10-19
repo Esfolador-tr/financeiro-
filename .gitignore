@@ -1,0 +1,6 @@
+/private/*.sqlite
+/private/*.sqlite-journal
+/private/*.sqlite-wal
+/private/*.sqlite-shm
+.env
+.DS_Store

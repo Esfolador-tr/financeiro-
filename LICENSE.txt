@@ -1,0 +1,3 @@
+Este projeto foi preparado para uso pessoal e adaptação pelo destinatário.
+Você pode modificar os arquivos para seu próprio uso. Revise segurança, hospedagem e
+compatibilidade antes de usar com dados financeiros reais.
